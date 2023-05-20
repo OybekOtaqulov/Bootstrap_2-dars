@@ -1,0 +1,73 @@
+.yashil{
+    background-color: #1c7430;
+    width: 150px;
+    height: 30px;
+    float: left;
+}
+.kok1{
+    margin-right: -450px;
+}
+.kok{
+    background-color: #005cbf;
+    width: 150px;
+    height: 30px;
+
+}
+
+.a2{
+    background-color: rgba(108, 117, 125, 0.4);
+    border: 2px solid rgba(108, 117, 125, 0.4);
+    color: rgba(108, 117, 125, 0.78);
+    width: 170px;
+
+}
+.input{
+    float: left;
+    width: 200px;
+}
+.a3{
+    background-color: white;
+    border: 2px solid gainsboro;
+    color: gainsboro;
+    width: 170px;
+}
+.a4{
+    background-color: white;
+    border: 2px solid black;
+    color: black;
+    width: 170px;
+}
+.a5{
+    background-color: white;
+    border: 2px solid blue;
+    color: gray;
+    width: 170px;
+}
+.tip{
+    float: left;
+    width: 200px;
+}
+.a6 {
+    background-color: rgba(108, 117, 125, 0.01);
+    border: 2px solid rgb(52, 170, 52);
+    color: rgb(39, 42, 45);
+    width: 170px;
+}
+.a7 {
+    background-color: rgba(108, 117, 125, 0.01);
+    border: 2px solid rgb(203, 26, 26);
+    color: rgb(39, 42, 45);
+    width: 170px;
+}
+.a8 {
+    background-color: rgba(108, 117, 125, 0.01);
+    border: 2px solid rgb(17, 17, 19);
+    color: rgb(39, 42, 45);
+    width: 170px;
+}
+.a9 {
+     background-color: rgba(108, 117, 125, 0.01);
+     border: 2px solid rgb(27, 27, 160);
+     color: rgb(39, 42, 45);
+     width: 170px;
+ }
